@@ -38,3 +38,5 @@ flutter_launcher_icons:
   android: true
   remove_alpha_ios: true
   image_path: "assets/app_icon.png"
+
+  # dart run flutter_launcher_icons
