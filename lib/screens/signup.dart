@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:get/get.dart';
+import 'package:on_track/controllers/data_controller.dart';
 
 class SignUpForm extends StatefulWidget {
   const SignUpForm({super.key});

@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:get/get.dart';
+import 'package:on_track/controllers/data_controller.dart';
+import 'package:on_track/models/todo.dart';
+import 'package:on_track/widgets/create_todo.dart';
 
 class TodoTile extends StatelessWidget {
   final Todo todo;

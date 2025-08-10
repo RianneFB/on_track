@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:on_track/controllers/data_controller.dart';
+import 'package:on_track/widgets/todo_activity_grid.dart';
 
 class ProfileScreen extends StatefulWidget {
   final DataController dataController;

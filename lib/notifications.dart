@@ -1,4 +1,5 @@
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'package:on_track/models/todo.dart';
 
 // Android notification channel
 const AndroidNotificationChannel channel = AndroidNotificationChannel(
